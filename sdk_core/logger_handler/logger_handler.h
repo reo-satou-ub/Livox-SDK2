@@ -32,6 +32,7 @@
 #include <mutex>
 #include <thread>
 #include <stdio.h>
+#include <cstdint>
 
 #include "base/io_thread.h"
 #include "base/noncopyable.h"

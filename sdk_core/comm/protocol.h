@@ -26,6 +26,7 @@
 #define COMM_PROTOCOL_H_
 
 #include <stdint.h>
+#include <cstdint>
 
 namespace livox {
 namespace lidar {
